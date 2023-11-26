@@ -1,4 +1,4 @@
-# Machine-Learning-HW7
+# Machine-Learning-Neural-Networks
 
 Download the image horse025b.png from Canvas, containing an image of a horse shape of size 84 × 128 pixels. The goal of this project is to train a regression Neural Network to predict the value
 of a pixel I(x, y) given its coordinates (x, y). We will use the square loss functions on the training examples (x_i, y_i, I(x_i, y_i)), i = 1,...,n:
